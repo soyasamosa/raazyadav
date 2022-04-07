@@ -18,7 +18,9 @@ html, body {
 body {
   padding: 0;
   margin: 0;
-  background: #181828;
+  background-color: #bdd4e7;
+
+  background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
   font-size: 14px;
   line-height: 1;
 }
