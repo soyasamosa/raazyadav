@@ -1,0 +1,17 @@
+<h3><span id="a">Raaz@Yadav</span>:<span id="b">~</span><span id="c">$</span> cat raaz.txt </h3>
+<h2>Hi, I'm Raaz Yadav.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>Ex student  <a href = "https://tinsukia.kvs.ac.in/"> Kendriya Vidyalaya Tinsukia</a> <!-- slightdelayhere--><!-- longlongcomment --> 
+ <br>What I Do<a href = "#"> I'm 17 years old, I'm currently learning Animation</a> </p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj --><p>I love doing competitive programming. Check me out on <a href="https://codeforces.com/">Codeforces</a>, <a href = "https://www.codechef.com/">Codechef </a> and <a href="https://atcoder.jp/">Atcoder</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><p>My other interests are Ethical Hacking and Animation. </p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --><p> Resume - <a href = "https://drive.google.com/">Click here</a> </p> <!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --> </h2>
+
+<h3><span id="a">Raaz@Yadav</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
+<h2>Email addresses : <a href="mailto:manage.raaz@gmail com">manage.raaz@gmail.com</a>; <a href="mailto:raaz70028@gmail.com">info@raazyadav.in</a>
+
+Chat Now: <a href="https://telegram.me/inrivaltek"> Click Here </a>
+
+Linked-In : <a href = "https://www.linkedin.com/in/raazyadav"> Raaz Yadav</a> <br/> </h2>
+
+<h3><span id="a">Raaz@Yadav</span>:<span id="b">~</span><span id="c">$</span> Fun Fact about me </h3>
+<h1> I never wanted to become a coder during my school days :P </h1>
+
+<h3><span id="a">Raaz@Yadav</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h3>
+<h1>Everyone is a loser till they decide to do something about it. </h1>
