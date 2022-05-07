@@ -8,7 +8,7 @@
 
 Chat Now: <a href="https://telegram.me/inrivaltek"> Click Here </a>
 
-Linked-In : <a href = "https://www.linkedin.com/in/raazyadav"> Raaz Yadav</a> <br/> </h2>
+GitHub : <a href = "https://github.com/raazyadav"> Check it Out !!!</a> <br/> </h2>
 
 <h3><span id="a">Raaz@Yadav</span>:<span id="b">~</span><span id="c">$</span> Fun Fact about me </h3>
 <h1> I never wanted to become a coder during my school days :P </h1>
