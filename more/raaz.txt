@@ -11,7 +11,7 @@ Chat Now: <a href="https://telegram.me/inrivaltek"> Click Here </a>
 GitHub : <a href = "https://github.com/raazyadav"> Check it Out !!!</a> <br/> </h2>
 
 <h3><span id="a">Raaz@Yadav</span>:<span id="b">~</span><span id="c">$</span> Fun Fact about me </h3>
-<h1> I never wanted to become a coder during my school days :P </h1>
+<h1> I make fake scenarios to make myself happy HEHE :)</h1>
 
 <h3><span id="a">Raaz@Yadav</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h3>
 <h1>Everyone is a loser till they decide to do something about it. </h1>
