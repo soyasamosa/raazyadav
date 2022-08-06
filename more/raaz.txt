@@ -6,7 +6,7 @@
 <h3><span id="a">Raaz@Yadav</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
 <h2>Email addresses : <a href="mailto:manage.raaz@gmail com">manage.raaz@gmail.com</a>; <a href="mailto:raaz70028@gmail.com">info@raazyadav.in</a>
 
-Chat Now: <a href="https://telegram.me/inrivaltek"> Click Here </a>
+Chat Now: <a href="https://telegram.me/nerdraaz"> Click Here </a>
 
 GitHub : <a href = "https://github.com/raazyadav"> Check it Out !!!</a> <br/> </h2>
 
