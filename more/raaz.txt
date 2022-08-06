@@ -1,6 +1,6 @@
 <h3><span id="a">Raaz@Yadav</span>:<span id="b">~</span><span id="c">$</span> cat raaz.txt </h3>
 <h2>Hi, I'm Raaz Yadav.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>Ex student  <!-- slightdelayhere--><!-- longlongcomment --> 
+<p>A pseudo Introvert :) ! <!-- slightdelayhere--><!-- longlongcomment --> 
  <br>What I Do<a href = "#"> I'm 17 years old, I'm currently Working as Freelancer Web Developer</a> </p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj --><p>I love doing competitive programming. Check me out on <a href="https://codeforces.com/">Codeforces</a>, <a href = "https://www.codechef.com/">Codechef </a> and <a href="https://atcoder.jp/">Atcoder</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><p>My other interests are Ethical Hacking and Animation. </p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --><p> Resume - <a href = "https://drive.google.com/">Click here</a> </p> <!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --> </h2>
 
 <h3><span id="a">Raaz@Yadav</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
